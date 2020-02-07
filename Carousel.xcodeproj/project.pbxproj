@@ -13,6 +13,7 @@
 		E7A6FA5A23EE2160001B61C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7A6FA5923EE2160001B61C7 /* Assets.xcassets */; };
 		E7A6FA5D23EE2160001B61C7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E7A6FA5C23EE2160001B61C7 /* Preview Assets.xcassets */; };
 		E7A6FA6023EE2160001B61C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E7A6FA5E23EE2160001B61C7 /* LaunchScreen.storyboard */; };
+		E7A6FA6823EE23B9001B61C7 /* CarouselView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E7A6FA6723EE23B9001B61C7 /* CarouselView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		E7A6FA5C23EE2160001B61C7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E7A6FA5F23EE2160001B61C7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E7A6FA6123EE2160001B61C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7A6FA6723EE23B9001B61C7 /* CarouselView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarouselView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				E7A6FA5E23EE2160001B61C7 /* LaunchScreen.storyboard */,
 				E7A6FA6123EE2160001B61C7 /* Info.plist */,
 				E7A6FA5B23EE2160001B61C7 /* Preview Content */,
+				E7A6FA6723EE23B9001B61C7 /* CarouselView.swift */,
 			);
 			path = Carousel;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			files = (
 				E7A6FA5423EE215D001B61C7 /* AppDelegate.swift in Sources */,
 				E7A6FA5623EE215D001B61C7 /* SceneDelegate.swift in Sources */,
+				E7A6FA6823EE23B9001B61C7 /* CarouselView.swift in Sources */,
 				E7A6FA5823EE215D001B61C7 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
